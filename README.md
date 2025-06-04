@@ -1,8 +1,3 @@
-##### Full Tutorial with auth implementation using Firebase: 
-
-https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/
-
-
 ### Demo 
 url - https://reacttodoappfirebaseauth.netlify.app/
 
@@ -10,17 +5,6 @@ url - https://reacttodoappfirebaseauth.netlify.app/
 ## Architecture
 
 ![image](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth/blob/master/photos/architecture.png)
-
-
-## screens
-
-![image](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth/blob/master/photos/login.PNG)
-
-![image](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth/blob/master/photos/signup.PNG)
-
-![image](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth/blob/master/photos/tododashboard.PNG)
-
-![image](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth/blob/master/photos/account.PNG)
 
 #### Components used
 
